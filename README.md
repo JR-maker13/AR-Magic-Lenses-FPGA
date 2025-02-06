@@ -5,9 +5,6 @@ FPGA-based Augmented Reality Magic Lenses for Truck Blind Spot Elimination This 
 
 # AR Magic Lenses: FPGA Implementation for Blind Spot Elimination
 
-![System Overview](media/image1.jpeg)  
-*Fig. 1: System Architecture of AR Magic Lenses*
-
 ## 📖 Project Overview  
 This project aims to solve the critical safety issue of blind spots around vehicle A-pillars by leveraging **Augmented Reality (AR)** and **FPGA-based real-time image processing**. The system dynamically adjusts the driver’s perspective using dual cameras, eye tracking, and spatial coordinate transformation, rendering the display transparent to reveal obscured areas.  
 
