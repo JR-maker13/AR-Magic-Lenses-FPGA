@@ -29,8 +29,7 @@ This project aims to solve the critical safety issue of blind spots around vehic
 ## 📦 Software Dependencies  
 1. **Vivado Design Suite 2018.3** (for FPGA synthesis and IP integration)  
 2. **Vivado HLS** (for image processing IP core generation)  
-3. **Xilinx SDK** (for PS-side software development)  
-4. **OpenCV** (for skin detection and face tracking algorithms)  
+3. **OpenCV** (for skin detection and face tracking algorithms)  
 
 ---
 
