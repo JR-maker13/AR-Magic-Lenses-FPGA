@@ -2,6 +2,16 @@
 FPGA-based Augmented Reality Magic Lenses for Truck Blind Spot Elimination This repository provides the hardware and software implementation of an AR system designed to eliminate blind spots around vehicle A-pillars. The system uses FPGA for real-time image processing, eye tracking, and dynamic perspective adjustment to enhance driver safety.
 基于FPGA的卡车盲点消除增强现实魔术镜头
 该存储库提供了AR系统的硬件和软件实现，旨在消除车辆a柱周围的盲点。该系统采用FPGA进行实时图像处理、眼动跟踪和动态视角调整，以提高驾驶员的安全性。
+## Files and Folders
+
+| Folder Name           | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| `double_ov5640`       | FPGA工程 for dual-camera recognition with HDMI output.                     |
+| `eyepoint_out2-ip`    | IP core for eye position detection using HLS (High-Level Synthesis).       |
+| `key_img-ip`          | IP core for image size control via button input.                           |
+| `key_imgsize-ip`      | IP core for image movement control via button input.                       |
+| `Transparent_Display` | Final version of the transparent display FPGA工程.                         |
+
 
 # AR Magic Lenses: FPGA Implementation for Blind Spot Elimination
 
